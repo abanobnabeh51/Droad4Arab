@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041706633203",
+    "project_id": "droad4arab-c06ac",
+    "storage_bucket": "droad4arab-c06ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041706633203:android:de913a4b6d912301daf486",
+        "android_client_info": {
+          "package_name": "com.drakwola.droad4arab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041706633203-fiqarhnftuls0lcqc3lhiq9oflsottta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFxRHDCAR-8cFi6ikRJacQiIs273hz1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041706633203-fiqarhnftuls0lcqc3lhiq9oflsottta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
